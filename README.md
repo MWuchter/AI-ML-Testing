@@ -37,7 +37,3 @@ Each project focuses on understanding and testing different ML concepts — from
 
 ---
 
-### 🧠 Motto
-> “The best way to understand machine learning is to build it from scratch.”
-
----
