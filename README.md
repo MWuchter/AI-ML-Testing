@@ -1,4 +1,4 @@
-# 🤖 AI & Machine Learning Experiments
+# AI & Machine Learning Experiments
 
 > A curated collection of small-scale **AI** and **Machine Learning** projects exploring  
 > data processing, model training, and algorithm experimentation.
